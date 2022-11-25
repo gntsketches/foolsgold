@@ -1,1 +1,2 @@
-export { default } from './lib/component';
+import Foolsgold from './lib/component.js';
+export default Foolsgold;

@@ -13,5 +13,6 @@
   ],
   "author": "Gregory Tippett <gntsketches@gmail.com>",
   "license": "ISC",
-  "private": false
+  "private": false,
+  "type": "module"
 }
