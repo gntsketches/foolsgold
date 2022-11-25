@@ -1,0 +1,17 @@
+{
+  "name": "foolsgold",
+  "version": "0.1.0",
+  "description": "Miniature components and store",
+  "main": "index.js",
+  "repository": "git@github.com:gntsketches/foolsgold.git",
+  "keywords": [
+    "study",
+    "education",
+    "example",
+    "frontend",
+    "component"
+  ],
+  "author": "Gregory Tippett <gntsketches@gmail.com>",
+  "license": "ISC",
+  "private": false
+}
